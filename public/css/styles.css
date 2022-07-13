@@ -1,0 +1,131 @@
+.navbar-brand{
+  font-weight: 650;
+}
+
+#section-photo{
+  /* background-image: url("https://images.pexels.com/photos/2680270/pexels-photo-2680270.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"); */
+  background-size: cover;
+  width: 100%;
+  background-color: white;
+  margin-top: 150px;
+
+
+}
+.insta_logo{
+  height: 2rem;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+.row-avatar{
+  text-align:  center;
+}
+
+.my-photo{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+
+.avatar{
+  /* vertical-align: middle; */
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+}
+
+.info{
+  /* margin-left: 60px; */
+}
+.info > h1{
+  font-size: 25rem;
+  font-weight: 600;
+}
+.info > h3{
+  /* margin-top: 60px; */
+}
+.line{
+  border-top: 1px solid gray;
+  margin-top: 100px;
+}
+
+.footer{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 50px;
+
+}
+.footer-heading{
+  text-align:  center;
+}
+
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+.expertise-area{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 120px;
+  margin-right: 120px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+
+
+}
+.languages{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 120px;
+  margin-right: 120px;
+  margin-bottom: 50px;
+  margin-top: 150px;
+}
+
+.expertise{
+  margin-top: 100px;
+
+}
+.row{
+  margin-top: 100px;
+}
+.col > h4{
+  font-weight: 700;
+}
+.edu{
+  margin-top: 50px;
+}
+
+.expertise > h2{
+  margin-left: 120px;
+  font-weight: 500;
+}
+.skill{
+  margin-left: 120px;
+  font-weight: 600;
+  margin-top: 50px;
+}
+.prog{
+  margin-top: 100px;
+}
+.last{
+  margin-bottom: 150px;
+
+}
